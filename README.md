@@ -1,1 +1,11 @@
-[![Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=Tech+Stack&lineCount=7&line1=React,ReactNative,JavaScript&line2=Node.js,Express,MongoDB&line3=Python,C++,C&line4=Next.js,HTML,CSS&line5=Firebase,GitHub,Git&line6=Tailwind,Figma,Vercel&line7=Roboflow,Supabase,Xcode)](https://github-readme-tech-stack.vercel.app/)
+[![Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?
+title=Tech+Stack
+&align=center
+&lineCount=6
+&line1=React,ReactNative,Next.js,JavaScript,TypeScript
+&line2=Node.js,Express,MongoDB,MySQL,PostgreSQL
+&line3=Python,C++,C,HTML,CSS
+&line4=Firebase,GitHub,Git,VSCode,Xcode
+&line5=Tailwind,Figma,Vercel,Supabase,Roboflow
+&line6=TensorFlow,OpenAI,REST,JSON,JWT
+)](https://github-readme-tech-stack.vercel.app/)
